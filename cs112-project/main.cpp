@@ -11,6 +11,7 @@ filemanip f;
 ifstream fin;
 
 int main() {
+    //fcgvhbjnkhbg
 short int choice;
 fin.open("Customer.txt");
 if (!fin) {
